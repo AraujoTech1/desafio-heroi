@@ -4,7 +4,7 @@
 
 O **Desafio Herói** é uma oportunidade para explorar a programação orientada a objetos em JavaScript, criando uma representação de heróis em um jogo de aventura. Neste projeto, você aprenderá a construir classes e objetos, implementando características únicas para cada herói, como nome, idade e tipo. Através de métodos dinâmicos, o desafio demonstra como a programação pode criar experiências interativas e envolventes.
 
-## Funcionalidades
+## Estrutura e Funcionalidades
 
 O objetivo deste desafio é criar uma classe genérica que represente um herói de uma aventura. Cada herói deve possuir as seguintes propriedades:
 
