@@ -22,4 +22,4 @@ Além disso, a classe deve incluir um método chamado `atacar`, que exibe uma me
 ## Tecnologias Utilizadas
 
 - **JavaScript**
-
+- **Git**
